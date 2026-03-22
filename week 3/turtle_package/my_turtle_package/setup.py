@@ -25,6 +25,7 @@ setup(
 entry_points={
     'console_scripts': [
         'move_turtle = my_turtle_package.move_turtle:main',
+'circle_turtle = my_turtle_package.circle_turtle:main',
     ],
 },
 )
