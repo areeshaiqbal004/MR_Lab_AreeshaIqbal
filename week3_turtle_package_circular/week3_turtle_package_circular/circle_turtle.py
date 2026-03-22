@@ -1,7 +1,9 @@
-import rclpy
-from rclpy.node import Node
-from geometry_msgs.msg import Twist
 import time
+
+import rclpy
+from geometry_msgs.msg import Twist
+from rclpy.node import Node
+
 
 class CirclePublisher(Node):
     def __init__(self):
@@ -22,11 +24,13 @@ class CirclePublisher(Node):
         msg.angular.z = 0.0
         self.publisher_.publish(msg)
 
+
 def main(args=None):
     rclpy.init(args=args)
     node = CirclePublisher()
     node.destroy_node()
     rclpy.shutdown()
+
 
 if __name__ == '__main__':
     main()
