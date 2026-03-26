@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>triangle_task</name>
+  <name>week_3_turtle_package_triangular</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="areesha.iqbal004@gmail.com">areesha</maintainer>

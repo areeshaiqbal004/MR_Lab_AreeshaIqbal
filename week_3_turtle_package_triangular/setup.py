@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'triangle_task'
+package_name = 'week_3_turtle_package_triangular'
 
 setup(
     name=package_name,
@@ -24,7 +24,7 @@ setup(
     },
     entry_points={
     'console_scripts': [
-        'triangle_turtle = triangle_task.triangle_turtle:main',
+        'triangle_turtle = week_3_turtle_package_triangular.triangle_turtle:main',
     ],
 },
 )
