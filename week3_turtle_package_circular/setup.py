@@ -24,8 +24,9 @@ setup(
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
-        'console_scripts': [
-            'circle_turtle = week3_turtle_package_circular.circle_turtle:main',
-        ],
-    },
+    'console_scripts': [
+        'circle_turtle = week3_turtle_package_circular.circle_turtle:main',
+        'triangle_turtle = week3_turtle_package_circular.triangle_turtle:main',
+    ],
+},
 )
