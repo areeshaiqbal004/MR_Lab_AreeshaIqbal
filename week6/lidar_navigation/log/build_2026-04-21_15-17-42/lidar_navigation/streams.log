@@ -1,0 +1,37 @@
+[1.913s] Invoking command in '/home/areesha/ros2_ws_areesha/src/lidar_navigation': PYTHONPATH=/home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/lidar_navigation build --build-base /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build install --record /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/install.log --single-version-externally-managed install_data
+[2.227s] running egg_info
+[2.228s] creating build/lidar_navigation/lidar_navigation.egg-info
+[2.228s] writing build/lidar_navigation/lidar_navigation.egg-info/PKG-INFO
+[2.228s] writing dependency_links to build/lidar_navigation/lidar_navigation.egg-info/dependency_links.txt
+[2.228s] writing entry points to build/lidar_navigation/lidar_navigation.egg-info/entry_points.txt
+[2.228s] writing requirements to build/lidar_navigation/lidar_navigation.egg-info/requires.txt
+[2.228s] writing top-level names to build/lidar_navigation/lidar_navigation.egg-info/top_level.txt
+[2.229s] writing manifest file 'build/lidar_navigation/lidar_navigation.egg-info/SOURCES.txt'
+[2.230s] reading manifest file 'build/lidar_navigation/lidar_navigation.egg-info/SOURCES.txt'
+[2.231s] writing manifest file 'build/lidar_navigation/lidar_navigation.egg-info/SOURCES.txt'
+[2.231s] running build
+[2.231s] running build_py
+[2.232s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build
+[2.232s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib
+[2.232s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib/lidar_navigation
+[2.232s] copying lidar_navigation/navigation_node.py -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib/lidar_navigation
+[2.233s] copying lidar_navigation/__init__.py -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib/lidar_navigation
+[2.233s] running install
+[2.233s] running install_lib
+[2.235s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation
+[2.235s] copying /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib/lidar_navigation/navigation_node.py -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation
+[2.235s] copying /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build/lib/lidar_navigation/__init__.py -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation
+[2.236s] byte-compiling /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation/navigation_node.py to navigation_node.cpython-310.pyc
+[2.236s] byte-compiling /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation/__init__.py to __init__.cpython-310.pyc
+[2.237s] running install_data
+[2.237s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/share/ament_index
+[2.237s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/share/ament_index/resource_index
+[2.237s] creating /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/share/ament_index/resource_index/packages
+[2.237s] copying resource/lidar_navigation -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/share/ament_index/resource_index/packages
+[2.237s] copying package.xml -> /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/share/lidar_navigation
+[2.237s] running install_egg_info
+[2.240s] Copying build/lidar_navigation/lidar_navigation.egg-info to /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages/lidar_navigation-0.0.0-py3.10.egg-info
+[2.242s] running install_scripts
+[2.266s] Installing navigation_node script to /home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/lidar_navigation
+[2.266s] writing list of installed files to '/home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/install.log'
+[2.297s] Invoked command in '/home/areesha/ros2_ws_areesha/src/lidar_navigation' returned '0': PYTHONPATH=/home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/areesha/ros2_ws_areesha/src/lidar_navigation/install/lidar_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/lidar_navigation build --build-base /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/build install --record /home/areesha/ros2_ws_areesha/src/lidar_navigation/build/lidar_navigation/install.log --single-version-externally-managed install_data
